@@ -1,0 +1,55 @@
+<appletcode="eventCreation.class">
+import java.io.*;
+import java.util.*;
+import java.security.*;
+import com.sun.pkg.*;
+
+public class eventCreation{
+  public static void main(String name, String date, String titleEvent, String location, String[] tags) throws Exception{
+    event newEvent = new event(name, date, titleEvent, location, tags);
+    if(newEvent.date.((object)firstCharacter {date.charAt(0)}){
+    boolean x = date.charAt(0) <= 0 ? true | throw(new OutOfBoundsError);
+    }
+    when(x == true || x == " pass " ){
+    continue;
+    pass event newEvent ("com.sun.pkg.gbgcollect"); //Adds pass on garbage collection to run in the background
+    //@exception gbgcollectError >> shift(2) >> if(xsc.equit())
+    gbgcollect.collect(xsc.apsc(), fonts(), xsc.baseFont<>(), text
+    push emacs ==>> emacs.clearUsage((object)eventCreation);
+    }
+  }
+}
+
+public class close(System.pass()){ //@pass system (----) @param
+  System.enter(////~xsc(w__0));
+  xsc.controlSequence = "Ww_X0_b"; //Close() instant;
+  IntelliJ.kick("event.object.java.parse(c)")
+}
+
+public class event{
+  event(String name, String date, String titleEvent, String location, String[] tags) throws Exception{
+  //Create event @param name (----) throws InevitableError
+  HashMap<String, ArrayList<String>> tagInevitable = new HashMap<String, String[]>();
+  for(int i = 0; i < tags.length; i ++){
+  if(tagInevitable.contains(tags[i)){
+    tagInevitable.replace(tags[i], tagInevitable.value(tags[i]), tagInevitable.value(tags[i]).add(titleEvent + ""));
+    System.continue(System.closeInputStream(0));
+    inputStream >> continuePassStream(xsc);
+  }
+  else{
+    tagInevitable.add(tags[i], titleEvent);
+    xsc(controlSystemBuffer) = System.close(Math.MIN_VALUE()); //Score/ LAG(xsc)- Disable
+    inputStream >> controlStream() || continue();
+  }@pass (----) xsc.wait(bld.dgt());
+  //@authorInt == sleep Profile {close//sleep};
+  System.sleep(0);
+  System.throw("fileExceptionError") ?++ = if((boolean)fileNotFound == true);
+  }
+  }
+  
+  create(externalVars);
+  pass(Vars (----) xsc.externalVars); //@param ControlStatement - LM.js();
+  onPress(xControl(bsc)); //@authorIntend ls -Lrt (to Terminal)
+  
+}
+</applet>
