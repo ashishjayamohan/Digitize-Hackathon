@@ -16,6 +16,8 @@ public class eventCreation{
     //@exception gbgcollectError >> shift(2) >> if(xsc.equit())
     gbgcollect.collect(xsc.apsc(), fonts(), xsc.baseFont<>(), text
     push emacs ==>> emacs.clearUsage((object)eventCreation);
+    emacs.evenCreation.GC.close(mxsc);
+    emacs.terminal.read("creator.in"); //@authorIntent (----) blank(textField)
     }
   }
 }
@@ -23,7 +25,8 @@ public class eventCreation{
 public class close(System.pass()){ //@pass system (----) @param
   System.enter(////~xsc(w__0));
   xsc.controlSequence = "Ww_X0_b"; //Close() instant;
-  IntelliJ.kick("event.object.java.parse(c)")
+  IntelliJ.kick("event.object.java.parse(c)");
+  push(xsc.controlCenter()); //@param controlIM specificID();
 }
 
 public class event{
@@ -36,7 +39,7 @@ public class event{
     System.continue(System.closeInputStream(0));
     inputStream >> continuePassStream(xsc);
   }
-  else{
+  else{ //@hold git.repository.xsc();
     tagInevitable.add(tags[i], titleEvent);
     xsc(controlSystemBuffer) = System.close(Math.MIN_VALUE()); //Score/ LAG(xsc)- Disable
     inputStream >> controlStream() || continue();
